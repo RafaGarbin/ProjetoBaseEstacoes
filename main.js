@@ -1,1 +1,1 @@
-const aplausos= document.querySelector("#som_aplausos")
+const aplausos= document.querySelector("#som_tecla_aplausos")
